@@ -1,0 +1,25 @@
+<svg width="1357" height="1728" viewBox="0 0 1357 1728" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_724_89" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="1357" height="1728">
+<path d="M59.329 0.768555H1356.75V1727.1L708.037 1710.83V1210.16L0.814453 1203.66L59.329 0.768555Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_724_89)">
+<mask id="mask1_724_89" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="387" y="36" width="970" height="684">
+<path d="M1356.74 36.5254H387.754V719.254H1356.74V36.5254Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_724_89)">
+<path d="M1091.39 169.841H366.057C254.721 169.841 164.465 260.08 164.465 371.396V403.923C164.465 515.238 254.721 605.477 366.057 605.477H1091.39C1202.72 605.477 1292.98 515.238 1292.98 403.923V371.396C1292.98 260.08 1202.72 169.841 1091.39 169.841Z" stroke="white" stroke-width="25.21" stroke-miterlimit="10"/>
+</g>
+<mask id="mask2_724_89" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="387" y="908" width="970" height="684">
+<path d="M1356.74 908.337H387.754V1591.07H1356.74V908.337Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_724_89)">
+<path d="M1091.39 1041.63H366.057C254.721 1041.63 164.465 1131.87 164.465 1243.18V1275.71C164.465 1387.03 254.721 1477.27 366.057 1477.27H1091.39C1202.72 1477.27 1292.98 1387.03 1292.98 1275.71V1243.18C1292.98 1131.87 1202.72 1041.63 1091.39 1041.63Z" stroke="white" stroke-width="25.21" stroke-miterlimit="10"/>
+</g>
+<mask id="mask3_724_89" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="120" y="472" width="970" height="684">
+<path d="M120.58 1155.25L1089.57 1155.25V472.521L120.58 472.521L120.58 1155.25Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_724_89)">
+<path d="M385.959 1041.47H1111.29C1222.62 1041.47 1312.88 951.234 1312.88 839.918V807.391C1312.88 696.076 1222.62 605.837 1111.29 605.837L385.959 605.837C274.623 605.837 184.367 696.076 184.367 807.391V839.918C184.367 951.234 274.623 1041.47 385.959 1041.47Z" stroke="white" stroke-width="25.21" stroke-miterlimit="10"/>
+</g>
+</g>
+</svg>

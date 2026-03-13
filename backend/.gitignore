@@ -1,0 +1,26 @@
+# dependencies
+/node_modules/
+
+# Environment (never commit secrets)
+/.env*
+*.pem
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+.pnpm-debug.log*
+
+# Misc OS files
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE (optional—uncomment if you use it)
+#.vscode/
+#.idea/
